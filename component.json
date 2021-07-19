@@ -1,8 +1,8 @@
 {
   "name": "string-hash",
-  "repo": "darkskyapp/string-hash",
+  "repo": "Kintent/string-hash",
   "description": "fast string hashing function",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "keywords": [
     "string",
     "hashing"
